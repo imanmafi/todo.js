@@ -1,4 +1,4 @@
-![alt tag](https://github.com/imanmafi/)
+![alt tag](https://github.com/imanmafi/todo.js/blob/master/img/background.jpg)
 
 # ToDo.js
 
